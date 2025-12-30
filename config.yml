@@ -57,7 +57,7 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          buttons:
+          # buttons:
             # - name: LinkedIn
             #   url: https://www.linkedin.com/in/elenipapadopulos/
             # - name: GitHub
